@@ -5,7 +5,7 @@ cask "solomd" do
   url "https://github.com/zhitongblog/solomd/releases/download/v#{version}/SoloMD_#{version}_universal.dmg",
       verified: "github.com/zhitongblog/"
   name "SoloMD"
-  desc "A markdown editor — and the bridge to your LLM"
+  desc "Markdown editor and bridge to your LLM"
   homepage "https://solomd.app/"
 
   livecheck do
