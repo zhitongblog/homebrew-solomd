@@ -1,6 +1,6 @@
 cask "solomd" do
-  version "4.14.10"
-  sha256 "a89681daa8aa662754b674037774cbaa3f73cc607827547f2a347dcd513c39f8"
+  version "4.14.11"
+  sha256 "e99ad156d0fca2518f4b5df46dd45c66d1764f2a99df1bb802fad5081d875322"
 
   url "https://github.com/zhitongblog/solomd/releases/download/v#{version}/SoloMD_#{version}_universal.dmg"
   name "SoloMD"
